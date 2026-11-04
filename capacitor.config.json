@@ -1,0 +1,6 @@
+{
+  "appId": "ro.parohia.cimitir",
+  "appName": "Cimitir Parohial",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
